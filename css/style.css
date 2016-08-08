@@ -1,0 +1,16 @@
+html{
+	font-family: 'Code-Pro-Demo';
+	background:#000;
+}
+body {
+  padding-top: 50px;
+  background:#000;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+h1
+{
+	font-size:100px;
+}
