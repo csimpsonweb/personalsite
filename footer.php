@@ -1,5 +1,5 @@
 	<div id="footer">
-		<p class="footerp">ALL RIGHTS RESERVED - carlsimpson.co.uk</p>
+		<!--<p class="footerp">ALL RIGHTS RESERVED - carlsimpson.co.uk</p>-->
 	</div>
 
     <!-- /.container -->

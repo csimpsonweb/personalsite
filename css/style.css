@@ -28,5 +28,9 @@ body {
 }
 h1
 {
-	font-size:60px;
+	font-size:30px;
+}
+.row
+{
+	margin-bottom:20px;
 }

@@ -1,0 +1,15 @@
+﻿/*
+* https://glenngeenen.be/phaser-loading-webfonts/
+*/
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('assets/fonts/opensans-light-webfont.eot');
+    src: url('assets/fonts/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/fonts/opensans-light-webfont.woff2') format('woff2'),
+         url('assets/fonts/opensans-light-webfont.woff') format('woff'),
+         url('assets/fonts/opensans-light-webfont.ttf') format('truetype'),
+         url('assets/fonts/opensans-light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
