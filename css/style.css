@@ -1,3 +1,19 @@
+* {margin:0;padding:0;} 
+html, body {height: 100%;}
+#container {min-height: 100%;}
+
+#main {
+  overflow:auto;
+  padding-bottom: 180px; /* must be same height as the footer */
+}
+
+#footer {
+  text-align: center;
+  position: relative;
+  margin-top: -180px; /* negative value of footer height */
+  height: 180px;
+  clear:both;
+}
 html{
 	font-family: 'Code-Pro-Demo';
 	background:#000;
@@ -12,5 +28,5 @@ body {
 }
 h1
 {
-	font-size:100px;
+	font-size:60px;
 }

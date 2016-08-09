@@ -1,4 +1,6 @@
-
+	<div id="footer">
+		<p class="footerp">ALL RIGHTS RESERVED - carlsimpson.co.uk</p>
+	</div>
 
     <!-- /.container -->
     <!-- Bootstrap core JavaScript
